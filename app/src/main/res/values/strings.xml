@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Triviador</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_play">Play</string>
+    <string name="triviador_title">Triviador</string>
+    <string name="result_title">Corect</string>
+    <string name="title_activity_level">LevelActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="main_no_ads">NO ADS</string>
+    <string name="banner_id">ca-app-pub-8530091499387924/1192527293</string>
+    <string name="interstitial_id">ca-app-pub-8530091499387924/2669260498</string>
+    <string name="appId">757306153173</string>
+    <string name="leaderboard_id">CgkI1bHbl4UWEAIQBg</string>
+</resources>

@@ -1,0 +1,21 @@
+{
+	"name" : "Triviador",
+	"no_levels" : 3,
+	"levels" : [{
+			"id" : 1,
+			"question" : "Ce tara are capitala la Cairo?",
+			"options" : ["MALI","EGIPT","LIBIA","ALGERIA"],
+			"solution" : 2
+		}, {
+			"id" : 2,
+			"question" : "Ce firma produce modelele de masini Civic si Accord?",
+			"options" : ["FORD","RENAULT","HONDA","TOYOTA"],
+	        "solution":3
+		}, {
+			"id" : 3,
+			"question" : "In ce tara a avut loc campionatul mondial de fotbal din 1930?",
+			"options" : ["ANGLIA","BRAZILIA","URUGUAY","GERMANIA"],
+			"solution" : 3
+		}
+	]
+}
